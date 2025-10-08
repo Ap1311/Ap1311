@@ -10,13 +10,22 @@ I’m a **Computer Engineering undergraduate** with a deep passion for **Cyberse
 My mission is to build **secure digital systems** and solve **real-world security challenges** through innovation and ethical hacking.
 
 💬 **Ask me about:** Ethical Hacking, Web App Security, Penetration Testing.
+<br><br>
+<p align="left">
+  <a href="https://chat.whatsapp.com/Jw6yqmlolc77auj4dLrcbp" target="_blank">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join 0xRA Hackers Community"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gdg.community.dev/gdg-on-campus-sardar-vallabhbhai-patel-institute-of-technology-vasad-india/" target="_blank">
+    <img src="https://img.shields.io/badge/See%20me%20on-Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="See me on Google Developers"/>
+  </a>
+</p>
 
 </td>
 <td valign="top" width="40%">
       
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ap1311&show_icons=true&theme=radical&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap1311&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap1311&layout=compact&theme=radical" height="185"/>
 </p>
       
 </td>
@@ -52,7 +61,7 @@ My mission is to build **secure digital systems** and solve **real-world securit
 - Global Rank **#36** with **100% success rate**.
 - Reported impactful vulnerabilities to top-level companies.
 
-**🔹 Founder & Community Manager @ Ethical Hacker Community** (2025 – Present)
+**🔹 Founder & Community Manager @ 0xRA Ethical Hacker Community** (2025 – Present)
 - Built and manage a **250+ member** cybersecurity community.
 - Mentored juniors in ethical hacking and bug bounty hunting.
 
