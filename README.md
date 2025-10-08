@@ -61,17 +61,34 @@ My mission is to build **secure digital systems** and solve **real-world securit
 
 ### 🧩 Experience
 
-**🔹 Security Researcher @ BugBase** (2024 – Present)
-- Global Rank **#36** with **100% success rate**.
-- Reported impactful vulnerabilities to top-level companies.
-
-**🔹 Founder & Community Manager @ 0xRA Ethical Hacker Community** (2025 – Present)
-- Built and manage a **250+ member** cybersecurity community.
-- Mentored juniors in ethical hacking and bug bounty hunting.
-
-**🔹 Cybersecurity Lead @ GDG SVIT** (2025 – Present)
-- Speaker at **Cloud.Secure** on *OWASP Top 10 & Live Exploitation*.
-- Demonstrated **live vulnerability discovery** in the GTU portal.
+<table>
+  <tr>
+    <td valign="middle" width="65%">
+      <strong>🔹 Security Researcher @ BugBase</strong> (2024 – Present)
+      <ul>
+        <li>Global Rank <strong>#36</strong> with <strong>100% success rate</strong>.</li>
+        <li>Reported impactful vulnerabilities to top-level companies.</li>
+      </ul>
+      <br>
+      <strong>🔹 Founder & Community Manager @ 0xRA Ethical Hacker Community</strong> (2025 – Present)
+      <ul>
+        <li>Built and manage a <strong>250+ member</strong> cybersecurity community.</li>
+        <li>Mentored juniors in ethical hacking and bug bounty hunting.</li>
+      </ul>
+      <br>
+      <strong>🔹 Cybersecurity Lead @ GDG SVIT</strong> (2025 – Present)
+      <ul>
+        <li>Speaker at <strong>Cloud.Secure</strong> on <em>OWASP Top 10 & Live Exploitation</em>.</li>
+        <li>Demonstrated <strong>live vulnerability discovery</strong> in the GTU portal.</li>
+      </ul>
+    </td>
+    <td valign="middle" width="35%">
+      <p align="center">
+        <img src="xra.png" alt="0xRA Community Logo" width="250" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
