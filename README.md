@@ -93,18 +93,41 @@ My mission is to build **secure digital systems** and solve **real-world securit
 ---
 
 ### ⚙️ Languages & Tools
+<h3 align="center">🔒 Cybersecurity Expertise 🔒</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <a href="#"><img src="https://img.shields.io/badge/Penetration_Testing-DD0031?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vulnerability_Assessment-3178C6?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OSINT-00979D?style=for-the-badge&logo=openbugbounty&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bug_Bounty-F05032?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Malware_Analysis-512BD4?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Network_Security-61DAFB?style=for-the-badge&logo=cisco&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SIEM-4EAA25?style=for-the-badge&logo=splunk&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Threat_Intelligence-764ABC?style=for-the-badge&logo=threatconnect&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Digital_Forensics-FF9900?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Web_App_Security-6771E5?style=for-the-badge&logo=owasp&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Reverse_Engineering-525252?style=for-the-badge&logo=ghidra&logoColor=white" /></a>
+</p>
+
+<!-- PROGRAMMING LANGUAGES -->
+<h3 align="center">💻 Programming Languages & Tools 💻</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,php,js,r,c,ruby,powershell&perline=8" /></a>
+</p>
+
+<!-- TOOLS & TECHNOLOGIES -->
+<h3 align="center">🛠️ Tools & Technologies 🛠️</h3>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,aws,vim,nginx,vscode&perline=8" /></a>
+</p>
+
+<!-- SPECIALIZED TOOLS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-2962FF?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-777BB4?style=for-the-badge&logo=john&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-2C8EBB?style=for-the-badge&logo=sqlmap&logoColor=white" />
 </p>
 
 ---
