@@ -1,5 +1,13 @@
-# Hi, I'm Aarav Shah <img src="https://media. giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
+<p align="center">
+  <a href="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0E75B6&height=250&section=header&text=Aarav%20Shah&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0E75B6&height=250&section=header&text=Aarav%20Shah&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
+  </a>
+</p>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=A+passionate+developer+from+Indi;Cybersecurity+Reacher;Full-Stack+Web+Developer;Always+learning+new+things" alt="Typing SVG">
+  </a>
+</h3>
 ### 🧠 A Cybersecurity Enthusiast & Security Researcher
 
 I’m a **Computer Engineering undergraduate** with a deep passion for **Cybersecurity**, **Ethical Hacking**, and **Web Development**.
