@@ -8,6 +8,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=A+passionate+developer+from+Indi;Cybersecurity+Reacher;Full-Stack+Web+Developer;Always+learning+new+things" alt="Typing SVG">
   </a>
 </h3>
+
+---
+
 ### 🧠 A Cybersecurity Enthusiast & Security Researcher
 
 I’m a **Computer Engineering undergraduate** with a deep passion for **Cybersecurity**, **Ethical Hacking**, and **Web Development**.
