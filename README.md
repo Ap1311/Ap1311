@@ -63,13 +63,13 @@ My mission is to build **secure digital systems** and solve **real-world securit
 
 <strong>🔹 Security Researcher @ BugBase</strong> (2024 – Present)
 <ul>
-  <li>Global Rank <strong>#36</strong> with <strong>100% success rate</strong>.</li>
+  <li>Global Rank <strong>#25</strong> with <strong>100% success rate</strong>.</li>
   <li>Reported impactful vulnerabilities to top-level companies.</li>
 </ul>
 
 <strong>🔹 Founder & Community Manager @ 0xRA Ethical Hacker Community</strong> (2025 – Present)
 <ul>
-  <li>Built and manage a <strong>250+ member</strong> cybersecurity community.</li>
+  <li>Built and manage a <strong>950+ member</strong> cybersecurity community.</li>
   <li>Mentored juniors in ethical hacking and bug bounty hunting.</li>
 </ul>
 
