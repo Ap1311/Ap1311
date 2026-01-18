@@ -59,7 +59,7 @@ My mission is to build **secure digital systems** and solve **real-world securit
 
 ### 🧩 Experience
 
-<img src="xra.png" alt="0xRA Community Logo" width="270" align="right" />
+<img src="0xRA.jpeg" alt="0xRA Community Logo" width="270" align="right" />
 
 <strong>🔹 Security Researcher @ BugBase</strong> (2024 – Present)
 <ul>
