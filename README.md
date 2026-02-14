@@ -69,7 +69,7 @@ My mission is to build **secure digital systems** and solve **real-world securit
 
 <strong>🔹 Founder & Community Manager @ 0xRA Ethical Hacker Community</strong> (2025 – Present)
 <ul>
-  <li>Built and manage a <strong>950+ member</strong> cybersecurity community.</li>
+  <li>Built and manage a <strong>1000+ member</strong> cybersecurity community.</li>
   <li>Mentored juniors in ethical hacking and bug bounty hunting.</li>
 </ul>
 
