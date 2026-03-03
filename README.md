@@ -128,3 +128,16 @@ My mission is to build **secure digital systems** and solve **real-world securit
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+<!-- FOOTER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:87CEFA,100:00BFFF&section=footer" width="100%"/>
+</div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=Eat+Sleep+Code+Repeat;Code.+Compile.+Conquer.;Think+in+Algorithms;Build.+Break.+Fix.+Repeat.;Automate+Everything;Security+First+Always;Debugging+is+Detective+Work;Keep+Learning+%2F%2F+Keep+Hacking+%F0%9F%A6%87;The+quieter+you+become%2C+the+more+you+hear;Hack+The+Planet!+%F0%9F%8C%8D;If+you+can%27t+beat+them%2C+join+them+%F0%9F%98%88;Exploit+%E2%86%92+Report+%E2%86%92+Secure" alt="Footer" />
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by Aarav Shah</b>
+</p>
