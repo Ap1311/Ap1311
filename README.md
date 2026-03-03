@@ -121,6 +121,7 @@ My mission is to build **secure digital systems** and solve **real-world securit
 - 🏅 **PhonePe** – Hall of Fame | **$250 Bounty** for Responsible Disclosure
 - 🚗 **TATA Motors** – Listed in Official Hall of Fame
 - 💬 **Airmeet** – Honored for Security Research
+- 🛡️ **Acko** – Honored for Security Research
 - 🎓 **SVIT Cybersecurity Champions** – Recognized for campus security achievements
 - 🕵️ **Private Invitations** – Invited by PhonePe, HDFC Bank, VI, ClearTax, Locus, Hike & Flipkart
 
