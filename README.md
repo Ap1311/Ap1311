@@ -29,9 +29,7 @@ My mission is to build **secure digital systems** and solve **real-world securit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ap1311&show_icons=true&theme=radical&rank_icon=github" height="165"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap1311&layout=compact&theme=radical" height="225"/>
+
 </p>
 
 ---
